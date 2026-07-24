@@ -1,4 +1,4 @@
-#Winning the Space Race with Data Science
+Winning the Space Race with Data Science
 Project Overview
 
 This data science capstone project analyses SpaceX Falcon 9 launch data and develops machine-learning models to predict whether the rocket’s first stage will land successfully.
